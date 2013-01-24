@@ -25,7 +25,7 @@
  */
 
     $string['echocenter'] = "Echo360 EchoCenter";
-    $string['echocenter_link'] = "Launch EchoCenter...";
+    $string['echocenter_link'] = "Launch Q-review...";
     $string['loading'] = "Loading. Please wait...";
 
     $string['pluginname'] = "Echo360 EchoCenter";
